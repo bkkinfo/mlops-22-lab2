@@ -1,0 +1,3 @@
+test accuracy: 0.02197802197802198
+test macro-f1: 0.004301075268817204
+model saved at ./models/tree_ccp_alpha=0.1_min_impurity_decrease=0.15.joblib
