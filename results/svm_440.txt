@@ -1,3 +1,0 @@
-test accuracy: 0.9972222222222222
-test macro-f1: 0.9971558364605965
-model saved at ['models/svm_440.pkl']

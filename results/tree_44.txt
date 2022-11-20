@@ -1,3 +1,0 @@
-test accuracy: 0.8472222222222222
-test macro-f1: 0.8433809715655978
-model saved at ['models/tree_44.pkl']
